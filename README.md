@@ -1,2 +1,4 @@
 # hello-world
-Faut bien débuter quelque part
+Faut bien débuter quelque part ! 
+
+Le changement, c'est maintenant et ici.
